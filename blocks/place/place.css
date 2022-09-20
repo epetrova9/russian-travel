@@ -1,0 +1,7 @@
+.place {
+
+    display: grid;
+    gap: 48px;
+    list-style-type: none;
+    padding: 0;
+}

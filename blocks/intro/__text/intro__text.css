@@ -1,0 +1,11 @@
+.intro__text {
+
+    flex-wrap: wrap;
+    width: 690px;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26.08px;
+    color: white;
+    margin: 0;
+}
