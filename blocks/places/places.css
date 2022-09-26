@@ -6,3 +6,15 @@
     margin-top: 94px;
     gap: 80px 0;
 }
+
+@media screen and (max-width: 320px) {
+    .places {
+
+        display: grid;
+        grid-template-columns: 320px;
+        justify-content: center;
+        margin-top: 94px;
+        gap: 80px 0;
+    }
+
+}

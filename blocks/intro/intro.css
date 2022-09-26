@@ -19,7 +19,21 @@
         flex-direction: column;
         justify-content: center;
     }
-    
+
+}
+
+@media screen and (max-width:768px) {
+    .intro {
+        max-width: 720px;
+        padding-left: 24px;
+        padding-right: 24px;
+        padding-top: 88px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+    }
+
 }
 
 @media screen and (max-width:320px) {
@@ -33,5 +47,5 @@
         flex-direction: column;
         justify-content: center;
     }
-    
+
 }
