@@ -9,4 +9,6 @@
     line-height: 22px;
     font-weight: 400;
     letter-spacing: 2px;
+    
+    grid-area: website;
 }

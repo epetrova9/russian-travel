@@ -25,8 +25,10 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
-@import url(../blocks/place/__column/place__column.css);
+@import url(../blocks/place/__url-heading/place__url-heading.css);
+@import url(../blocks/place/__url/place__url.css);
 @import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__paragraph-list/place__paragraph-list.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 
 @import url(../blocks/fonts/fonts.css);

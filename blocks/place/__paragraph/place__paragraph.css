@@ -1,2 +1,17 @@
 .place__paragraph {
+    
+    grid-area: paragraph;
+    font-family: 'Inter';
+    font-size: 18px;
+    color: white;
+    line-height: 29.34px;
+    font-weight: 400;
+    margin:0;
+    align-self: flex-start;
+    padding: 0;
+}
+
+.place__paragraph:last-of-type {
+
+    margin-top: 26px;
 }

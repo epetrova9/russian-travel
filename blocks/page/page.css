@@ -2,3 +2,10 @@
     max-width: 100%;
     background-color: #2A2C2F;
 }
+
+@media screen and (max-width:320px) {
+    .page {
+        max-width: 100%;
+        background-color: #2A2C2F;
+    }
+}

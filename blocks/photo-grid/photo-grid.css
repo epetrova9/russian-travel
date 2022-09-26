@@ -6,3 +6,15 @@
     row-gap: 16px;
     margin: 92px 48px 0 48px;
 }
+
+@media screen and (max-width: 320px) {
+    .photo-grid {
+        max-width: 288px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+        column-gap: 12px;
+        row-gap: 12px;
+        margin: 64px 16px 0 16px;
+    }
+
+}
